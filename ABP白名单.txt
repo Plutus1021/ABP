@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: 白名单
+! Title: ABP白名单
 ! Homepage: https:666.888
 ! Version: 2025-07-27 
 ! Total count: 888
