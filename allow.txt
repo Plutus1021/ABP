@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: 白名单
-! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，10007自用规则，EasyList no Element Rules，EasylistChina，CJX'sAnnoyance，Adblock Warning Removal List
-! Homepage: https://github.com/damengzhu/abpmerge
-! Version: 2025-07-27 16:26:33
-! Total count: 80201
+! Description: 91白名单
+! Homepage: https:666.888
+! Version: 2025-07-27 
+! Total count: 888
 
 @@||1080872514.rsc.cdn77.org^
 @@||1187531871.rsc.cdn77.org^
