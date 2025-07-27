@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: ABP Merge Rules
+! Title: 白名单
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，10007自用规则，EasyList no Element Rules，EasylistChina，CJX'sAnnoyance，Adblock Warning Removal List
 ! Homepage: https://github.com/damengzhu/abpmerge
 ! Version: 2025-07-27 16:26:33
